@@ -19,7 +19,6 @@ main {
   max-width: 144rem;
   height: 80rem;
   margin: 0 auto;
-  margin-top: 8rem;
   background: hsl(257, 40%, 49%) url(images/bg-desktop.svg);
   background-repeat: no-repeat;
   padding: 6rem 7rem 5rem 7.3rem;
